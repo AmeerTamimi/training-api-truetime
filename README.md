@@ -1,4 +1,4 @@
-# TrueTime Training API (ASP.NET Core)
+# E-Commerce API (ASP.NET Core)
 
 A small ASP.NET Core Web API built during a training period with **True Time Solutions**.
 This project was mainly for practice and learning (controllers, DTOs, basic CRUD structure, and EF Core DbContext).
